@@ -25,7 +25,7 @@ The dataset contains customer reviews for Amazon Alexa products including:
 - Verified purchase status
 - Review feedback metrics
 
-**Source:** [Specify your data source here, e.g., Kaggle, custom scraping, etc.]
+**Source:** [ Kaggle]
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ The dataset contains customer reviews for Amazon Alexa products including:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-alexa-reviews.git
+git clone https://github.com/jamshaid-rehman/amazon-alexa-reviews.git
 cd amazon-alexa-reviews
 ```
 
