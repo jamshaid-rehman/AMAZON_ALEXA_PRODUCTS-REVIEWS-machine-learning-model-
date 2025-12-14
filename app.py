@@ -412,7 +412,7 @@ elif page == "🤖 Sentiment Prediction":
     examples = {
         "Positive Example 1": "This Alexa device is absolutely amazing! The sound quality is superb and it responds quickly to all my commands.",
         "Positive Example 2": "Best purchase ever! Love how it integrates with my smart home devices.",
-        "Negative Example 1": "Very disappointed. The device keeps disconnecting from WiFi and the sound quality is poor.",
+        "Negative Example 1": "It's like Siri, in fact, Siri answers more accurately then Alexa.  I don't see a real need for it in my household, though it was a good bargain on prime day deals.",
         "Negative Example 2": "Doesn't understand my commands properly. Very frustrating experience."
     }
     
@@ -522,4 +522,5 @@ st.markdown("""
     <p>📚 IDS F24 Project | Created with Streamlit & Machine Learning</p>
     <p>Dataset: Amazon Alexa Reviews | Model: Random Forest Classifier</p>
 </div>
+
 """, unsafe_allow_html=True)
